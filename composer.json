@@ -29,7 +29,6 @@
 		}
 	],
 	"require": {
-		"php" : "^5.4",
-		"hubzero/com_projects": "dev-master"
+		"php" : "^5.4"
 	}
 }
